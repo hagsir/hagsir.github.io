@@ -1,0 +1,42 @@
+
+body {
+	background-color: black;
+}
+h1 {
+  color: #00ff41;
+  font-family: verdana;
+  font-size: 300%;
+}
+
+header {
+  text-align: center;
+  font-size: 35px;
+  color: #00ff41;
+}
+
+.center-content {
+  text-align: center;
+}
+
+p  {
+  color: #00ff41;
+  font-family: courier;
+  font-size: 160%;
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #008f11;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00ff41;
+  background-color: transparent;
+  text-decoration: underline;
+}
