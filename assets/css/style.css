@@ -40,3 +40,23 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
+
+.label-style {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: #00ff41;
+  margin-bottom:-15px;
+}
+
+
+.input-style {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: #ffffff;
+  border-color: #00ff41;
+  background-color: #080808;
+  caret-color: #00ff41;
+  accent-color: #00ff41;
+}
