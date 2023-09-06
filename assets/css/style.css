@@ -60,3 +60,9 @@ a:hover {
   caret-color: #00ff41;
   accent-color: #00ff41;
 }
+
+.container {
+  display: block;
+  margin:0 auto;
+  text-align: center;
+}
