@@ -1,13 +1,13 @@
 var botao = document.getElementById("buttonLogin");
 var run = document.getElementById("run");
 
-if(botao != null){
+if(botao !== null){
     botao.addEventListener("click", function() {
         window.location.href = "./home.html";
     });
 }
 
-if(run != null){
+if(run !== null){
     run.addEventListener("click", function(){
         var coroa=0, moeda;
         const array = [10, 100, 1000, 10000, 20000, 50000, 100000];
